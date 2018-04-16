@@ -11,6 +11,7 @@ namespace JenkinTest
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Jenkins !");
+            Console.WriteLine("Update 1 !");
         }
     }
 }
