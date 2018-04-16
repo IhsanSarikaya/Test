@@ -13,6 +13,7 @@ namespace JenkinTest
             Console.WriteLine("Hello Jenkins !");
             Console.WriteLine("Update 1 !");
             Console.WriteLine("Update 2 !");
+            Console.WriteLine("Update 3 !");
         }
     }
 }
