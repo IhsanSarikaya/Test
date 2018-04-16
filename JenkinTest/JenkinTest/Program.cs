@@ -16,6 +16,7 @@ namespace JenkinTest
             Console.WriteLine("Update 3 !");
             Console.WriteLine("Update 4 !");
             Console.WriteLine("Update 5 !");
+            Console.WriteLine("Update 6 !");
         }
     }
 }
